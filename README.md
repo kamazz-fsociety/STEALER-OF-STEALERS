@@ -13,7 +13,8 @@ We download all the cheats from YouTube, throw them to our virtual machine / ded
 
 Here is an example that I found:
 
-![enter image description here](https://i.ibb.co/Y2LB4bG/MEJAk-RF.png)
+![](https://i.ibb.co/Y2LB4bG/MEJAk-RF.png)
+
 Moving on. To further automate the work, I wrote a simple software on sharp, which will throw off logs from this stiller to you.
 The first two parameters specify the your chat ID and the chat ID from the request, and then specify token from request.
 Then you will need to choose count of messages, to redirect. That's all then everything will start!
