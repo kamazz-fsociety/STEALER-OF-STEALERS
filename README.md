@@ -19,5 +19,11 @@ Moving on. To further automate the work, I wrote a simple software on sharp, whi
 The first two parameters specify the your chat ID and the chat ID from the request, and then specify token from request.
 Then you will need to choose count of messages, to redirect. That's all then everything will start!
 
+## Instalation
+```sh
+git clone https://github.com/kamazz-fsociety/STEALER-OF-STEALERS
+cd stealer-of-stealers
+python3 main.py
+```
 
 You can help me by following my [Telegram](https://t.me/+fN7NR-nVvmsxYWRi) chanel.
