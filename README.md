@@ -22,7 +22,7 @@ Then you will need to choose count of messages, to redirect. That's all then eve
 ## Instalation
 ```sh
 git clone https://github.com/kamazz-fsociety/STEALER-OF-STEALERS
-cd stealer-of-stealers
+cd Stealer-of-Stealers
 python3 main.py
 ```
 
